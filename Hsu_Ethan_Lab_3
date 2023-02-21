@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+
+<style>
+    .myDiv {
+      border: 5px outset rgb(106, 23, 23);
+      background-color: rgb(255, 255, 255);    
+      text-align: center;
+    }
+    </style>
+    </head>
+    <body>
+    
+    <div class="myDiv">
+      <h2>Welcome To The Hsu International Trading Firm </h2>
+      <p>Time to Change the Future!</p>
+    </div>
+
+<head>
+    <title>HITF</title>
+    </head>
+   
+    
+    <body>
+        <html>
+        <br>
+        <h1 class="opening-heading">Experience the New Beginnings!</h1>
+        <br>
+
+    <html>
+    <body>
+    <body style = "background-color: antiquewhite;">
+    </body>
+    </html>
+    <!--Global Styling: Class-->
+    
+    
+        
+        </html><img src="tradingfirmbuilding.jpeg" alt="all-images">       
+        </html>
+        </body>
+        <main>
+
+        <main>Follow us on our medias: @HsuITF@gmail.com
+        <main>Find us on Twitter, Instagram, Facebook, and Tik Tok</main>
+        <hr>
+         <article class="paragraph">
+            <h3>Join the Community</h3>
+            <p>1) Experience economic opportunities to expand one's market </p>
+            <p>2) Available goods and services</p>
+            <p>3) Increase revenue in a shorter period of time</p>
+            <p>4) Better cash flow and risk management</p>
+         </article>
+
+         <hr>
+
+         <p><b>Here is a quote the Hsu Family follows:</b></p>
+
+         <blockquote>
+         "We follow the 7 P's: Prior, Proper, Planning, Prevents, Piss, Poor, Performances"
+         </blockquote>
+
+        <hr>
+
+         <article class="paragraph">
+            <h3>Why we started Hsu International Trading Firm?</h3>
+            <p>The global economy is an opportunity for individuals and companys to economically prosper
+                by free training, being surrounded by other successful traders, exposure to innovative trading ideas, greatly reduced fees and commissions, access to capital, and performance monitoring.
+             </p></article>  
+
+
+            <html>
+                <h3>Please fill out the form if you are interested in joing HITF.</h3>
+                <head>
+                  <title>Title of the document</title>
+                </head>
+                <body>
+                  <form action="/form/submit" method="get">
+                    <label>Your Name:</label>
+                    <input type="text" name="first_name" />
+                    <br/>
+                    <br/>
+                    <label>Enter Your E-Mail:</label>
+                    <input type="email" name="user_email" />
+                    <br/>
+                    <br/>
+                    <input type="submit" value="Submit" />
+                  </form>
+                </body>
+
+            <html>
+                <body>
+                <iframe src="economy.jpg" title="W3Schools Free Online Web Tutorials">
+                </iframe>
+                
+                </body>
+                </html>
+                
+
+            <br>
+
+            <address>
+                Designed by Ethan Hsu <a href="mailto:webmaster@example.com"></a>and email @HsuITF@gmail.com<br>
+                Visit us at our social media pages<br>
+                Postal Box 654, Raleigh, North Carolina <br>
+                USA
+            </address>
+
+
+            <html>
+
+<head>
+<style>
+#div.ex1 {
+  width: 200px;
+  background-color: rgb(219, 250, 247);
+}
+
+div.ex2 {
+  width: 300px;
+  padding: 25px;
+  box-sizing: border-box;
+  background-color: rgb(203, 234, 222);
+}
+</style>
+</head>
+<body>
+<!--Local Styling: ID-->
+<h2>Why HTIF is the right fit?</h2>
+
+<div class="ex1">You wont regret this decision!</div>
+<br>
+
+<div class="ex2">HTIF is a foundation for companies to economically profit in the long-run, while we change the future to</div>
+</div>
+
+</body>
+</html>
+
+<html>
+<head>
+<style>
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+</style>
+</head>
+<body>
+
+<h2>Looking for positions to be filled in HTID</h2>
+<p>Currently we are looking for:</p>
+
+<p class="dotted">VP</p>
+<p class="dashed">SVP.</p>
+<p class="solid">Multiple Consultants </p>
+
+<!--Local Styling: Class-->
+
+
+<html>
+<head>
+<style>
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+</style>
+</head>
+<body>
+
+<h1>How many members are in HTIF?</h1>
+<p class="p1">CEO</p>
+<p class="p2">Head VP and SVP</p>
+<p class="p3">300 analyst, consultants, and assistances</p>
+    
+</body>
+</html>
+    
+<!--Local Styling: Class-->
+
+
+<html>
+<head>
+<style>
+p.one {
+  border-style: solid;
+  border-width: 5px;
+}
+</style>
+</head>
+<body>
+
+<p class="one">Designed by Ethan Hsu.</p>
+
+<!--Local Styling: Class-->
+
+</html>
